@@ -34,4 +34,9 @@ Confira os repositórios fixados abaixo 👇 (em constante atualização com nov
 - 📍 Rio de Janeiro, RJ
 
 ---
+📌 Projetos em destaque
+
+Reparou — Projeto em equipe (4 devs). Contribuí com desenvolvimento front-end (JavaScript, HTML, CSS), design de interface, testes e apresentação.
+Segue o link :https://github.com/Linleir/Reparou
+
 ⭐ Aberto a oportunidades de estágio em TI!
