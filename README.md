@@ -1,16 +1,37 @@
-## Hi there 👋
+# Olá, eu sou o Davi 👋
 
-<!--
-**DAVI1235/DAVI1235** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Ciência da Computação** na CEFET (4º período), buscando estágio na área de TI para colocar em prática o que venho aprendendo na faculdade e continuar evoluindo em um ambiente profissional.
 
-Here are some ideas to get you started:
+Antes disso, me formei **Técnico em Mecânica Industrial**, o que me deu uma base sólida em raciocínio lógico e resolução prática de problemas — hoje aplicada ao desenvolvimento de software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 O que eu curto trabalhar
+
+- Desenvolvimento Web (front-end)
+- Lógica de programação e estruturas de dados
+- Aprender e experimentar novas tecnologias
+
+## 🛠️ Tecnologias e ferramentas
+
+**Linguagens:** C, Python, JavaScript
+**Web:** HTML, CSS, Bootstrap, React
+**CAD/Engenharia:** AutoCAD, SolidWorks
+**Produtividade:** Pacote Office
+
+## 📌 Projetos em destaque
+
+Confira os repositórios fixados abaixo 👇 (em constante atualização com novos projetos!)
+
+## 🌱 Aprendendo atualmente
+
+- Git & GitHub (fluxo colaborativo)
+- SQL / Banco de dados
+- TypeScript
+
+## 📫 Como me encontrar
+
+- LinkedIn: [linkedin.com/in/davi-luiz-11a075184](https://linkedin.com/in/davi-luiz-11a075184)
+- Email: daviluizrc@gmail.com
+- 📍 Rio de Janeiro, RJ
+
+---
+⭐ Aberto a oportunidades de estágio em TI!
