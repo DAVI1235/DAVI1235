@@ -2,7 +2,7 @@
 
  Estudante de **Ciência da Computação** na CEFET (4º período), buscando estágio na área de TI para colocar em prática o que venho aprendendo na faculdade e continuar evoluindo em um ambiente profissional.
 
-Antes disso, me formei **Técnico em Mecânica Industrial**, o que me deu uma base sólida em raciocínio lógico e resolução prática de problemas — hoje aplicada ao desenvolvimento de software.
+Antes disso, sou formado **Técnico em Mecânica Industrial**, o que me deu uma base sólida em raciocínio lógico e resolução prática de problemas : hoje aplicada ao desenvolvimento de software.
 
 ## O que eu curto trabalhar
 
